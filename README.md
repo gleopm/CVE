@@ -3,7 +3,7 @@
 
 - 👯 Estamos colaborando en grupo [Inversiones CVE](https://github.com/gleopm/CVE)
 
-<h3 align="left">Connect with me:PROYECTO HECHO CON PYTHON 3.11.2</h3>
+<h3 align="left">Connect with me:PROYECTO HECHO CON PYTHON 3.11.6</h3>
 <p align="left">
 </p>
 
