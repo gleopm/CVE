@@ -1,4 +1,7 @@
-<h3 align="center">Este es el Repositorio la empresa "INVERSIONES CVE"</h3>
+<h1 align="center">Hola 👋 somos Inversiones CVE</h1>
+<h3 align="center">"INVERSIONES CVE"</h3>
+
+- 👯 Estamos colaborando en grupo [Inversiones CVE](https://github.com/gleopm/CVE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
